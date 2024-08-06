@@ -73,7 +73,7 @@ main{
     text-align: center;
     justify-items: center;
 }
-main > input{
+form > input{
     text-align: center;
     background-color: rgb(87, 87, 87);
     border-radius: 20px;
