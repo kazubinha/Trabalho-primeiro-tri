@@ -80,7 +80,7 @@ main{
     margin: 120px;
     text-align: center;
 }
-main > input{
+.formes > input{
     text-align: center;
     background-color: rgb(87, 87, 87);
     border-radius: 20px;
